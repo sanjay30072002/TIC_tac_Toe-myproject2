@@ -1,1 +1,1 @@
-# TIC_tac_Toe-myproject2this project based on tic-tac-toe game,who solves first is the winner.this is the very popular and interesting game which is very popular and mind-teasing game!
+# TIC_tac_Toe-myproject2this project based on tic-tac-toe game,who solves first is the winner.this is the very popular and interesting game which is very popular and mind-teasing game!the one who joins the tletter x or o in three boxes diagonally,vertically or horizontally is the winner,
